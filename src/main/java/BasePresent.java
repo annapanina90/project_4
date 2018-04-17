@@ -25,5 +25,5 @@ public class BasePresent {
            double mass = candy1.getWeight()+candy2.getWeight()+choco1.getWeight()+choco2.getWeight();
            System.out.println("Стоимость подарка = " +"руб. " + cost + " Вес подарка = " + mass + " грамм");
 
-    }
+
 }
